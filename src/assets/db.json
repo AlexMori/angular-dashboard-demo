@@ -1,0 +1,22 @@
+[
+    {"index": 1,  "name": "Autoclave A1",   "city": "Trento", "country": "Italy", "alarms": 1, "state": "online", "address": "Studio dentistico via tal dei tali" },
+    {"index": 2,  "name": "Autoclave A1",   "city": "Trento", "country": "Italy", "alarms": 2, "state": "alarm",  "address": "Studio dentistico via tal dei tali" },
+    {"index": 3,  "name": "Lavaendoscopi",  "city": "Trento", "country": "Italy", "alarms": 3, "state": "alarm",  "address": "Ospedale Santa Chiara" },
+    {"index": 4,  "name": "Ultrasuoni US",  "city": "Trento", "country": "Italy", "alarms": 4, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 5,  "name": "Ultrasuoni US",  "city": "Trento", "country": "Italy", "alarms": 1, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 6,  "name": "Ultrasuoni US",  "city": "Trento", "country": "Italy", "alarms": 2, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 7,  "name": "Lavaendoscopi",  "city": "Trento", "country": "Italy", "alarms": 3, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 8,  "name": "Lavaendoscopi",  "city": "Trento", "country": "Italy", "alarms": 4, "state": "alarm",  "address": "Ospedale Santa Chiara" },
+    {"index": 9,  "name": "Lavaendoscopi",  "city": "Trento", "country": "Italy", "alarms": 1, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 10, "name": "Ultrasuoni US",  "city": "Trento", "country": "Italy", "alarms": 2, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 11, "name": "Ultrasuoni US",  "city": "Trento", "country": "Italy", "alarms": 3, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 12, "name": "Autoclave A1",   "city": "Trento", "country": "Italy", "alarms": 4, "state": "alarm",  "address": "Studio dentistico via tal dei tali 2" },
+    {"index": 13, "name": "Autoclave A1",   "city": "Trento", "country": "Italy", "alarms": 1, "state": "online", "address": "Studio dentistico via tal dei tali 2" },
+    {"index": 14, "name": "Autoclave A1",   "city": "Trento", "country": "Italy", "alarms": 2, "state": "online", "address": "Studio dentistico via tal dei tali 2" },
+    {"index": 15, "name": "Autoclave A1",   "city": "Trento", "country": "Italy", "alarms": 3, "state": "alarm",  "address": "Studio dentistico via tal dei tali" },
+    {"index": 16, "name": "Lavaendoscopi",  "city": "Trento", "country": "Italy", "alarms": 4, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 17, "name": "Lavaendoscopi",  "city": "Trento", "country": "Italy", "alarms": 1, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 18, "name": "Lavaendoscopi",  "city": "Trento", "country": "Italy", "alarms": 2, "state": "alarm",  "address": "Ospedale Santa Chiara" },
+    {"index": 19, "name": "Lavaendoscopi",  "city": "Trento", "country": "Italy", "alarms": 3, "state": "online", "address": "Ospedale Santa Chiara" },
+    {"index": 20, "name": "Lavaendoscopi",  "city": "Trento", "country": "Italy", "alarms": 4, "state": "online", "address": "Ospedale Santa Chiara" }
+]

@@ -1,0 +1,7 @@
+
+<mat-grid-list cols="3" rowHeight="2:1">
+    <mat-grid-tile *ngFor="let dashboardInformation of dashboardInformationList">
+        <app-information-card [dashboardInformation]="dashboardInformation"></app-information-card>
+    </mat-grid-tile>
+</mat-grid-list>
+<app-chart></app-chart>
