@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "icon": "123",
+        "icon_class": "green-icon",
+        "name": "Macchine installate",
+        "city": "Trento",
+        "state": "Italia",
+        "currentData": 153,
+        "unitMeasure": "unità",
+        "trend": "neutro"
+    },
+    {
+        "id": 1,
+        "icon": "warning",
+        "icon_class": "red-icon",
+        "name": "Allarmi ultimo mese",
+        "city": "Trento",
+        "state": "Italia",
+        "currentData": 3,
+        "unitMeasure": "allarmi",
+        "trend": "negativo"
+    },
+    {
+        "id": 2,
+        "icon": "settings",
+        "icon_class": "orange-icon",
+        "name": "Manutenzioni ultimo mese",
+        "city": "Trento",
+        "state": "Italia",
+        "currentData": 103,
+        "unitMeasure": "manutenzioni",
+        "trend": "positivo"
+    }
+]
