@@ -19,7 +19,6 @@ import { NgxChartsModule } from '@swimlane/ngx-charts';
         <mat-toolbar color="primary">
           <a mat-flat-button matTooltip="Go to home" aria-label="Home button" color="primary" [routerLink]="['/']"><mat-icon>home</mat-icon>HOME</a>
           <a mat-flat-button matTooltip="Go to list" aria-label="List product button" color="primary" [routerLink]="['list']">LIST PRODUCT</a>
-          <a mat-flat-button matTooltip="Go to map" aria-label="Map button" color="primary" [routerLink]="['map']"><mat-icon>map</mat-icon>MAP</a>
         </mat-toolbar>
       </p>
       <section class="content">

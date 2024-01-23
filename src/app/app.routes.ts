@@ -20,9 +20,4 @@ export const routes: Routes = [
       component: DetailsComponent,
       title: 'Product details',
     },
-    {
-      path: 'map',
-      component: MapComponent,
-      title: 'Map details',
-    },
   ];
